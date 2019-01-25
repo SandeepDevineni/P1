@@ -12,4 +12,4 @@ IT is very easy to run this applcation. To run this application we need to follo
 
 
 ## screen shot
-["My Screen Shot"](https://github.com/SandeepDevineni/P1/blob/master/Capture.PNG)
+!["My Screen Shot"](https://github.com/SandeepDevineni/P1/blob/master/Capture.PNG)
